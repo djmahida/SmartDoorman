@@ -1,6 +1,2 @@
 # SmartDoorman
-Developed By:
-Devarshsinh Mahida
-Hamza Mirza
-Megha Sharma
-Shubham Aggarwal
+Developed By: Devarshsinh Mahida, Hamza Mirza, Megha Sharma, Shubham Aggarwal
